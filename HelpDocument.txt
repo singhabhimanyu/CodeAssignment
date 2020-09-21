@@ -1,0 +1,27 @@
+Source code include application code and unit test for the same.  
+Sample file/folder used in application are also committed into repository.
+
+Path of Files and folders are configurable and can be change in application.properties file
+Please change the path in application.properties with required directory path
+
+Deployment:
+
+Application is Spring Boot based application. Embedded Tomcat server is used to run the application, so external setup of server 
+is required to run the application.
+Application can be build on any machine having maven and java installed.
+
+To build application run "mvn clean install" in root folder; upon successful execution of command a jar file (dbsassignment-0.0.1-SNAPSHOT.jar) will be created in target folder.
+
+To run the application execute the jar with given command:
+>java -jar dbsassignment-0.0.1-SNAPSHOT.jar   
+
+Application can be accessed in browser with url:
+
+//Application Home page
+http://localhost:8080/
+
+//To Files and Folders in given directory
+http://localhost:8080/filefolder
+
+//To get the information of given file
+http://localhost:8080/fileinfo

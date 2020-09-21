@@ -1,0 +1,37 @@
+{"properties": [
+  {
+    "name": "dirPath",
+    "type": "java.lang.String",
+    "description": "A description for 'dirPath'"
+  },
+  {
+    "name": "filePath",
+    "type": "java.lang.String",
+    "description": "A description for 'filePath'"
+  },
+  {
+    "name": "dirPath",
+    "type": "java.lang.String",
+    "description": "A description for 'dirPath'"
+  },
+  {
+    "name": "dirPath",
+    "type": "java.lang.String",
+    "description": "A description for 'dirPath'"
+  },
+  {
+    "name": "source.file.Path",
+    "type": "java.lang.String",
+    "description": "A description for 'source.file.Path'"
+  },
+  {
+    "name": "source.file.path",
+    "type": "java.lang.String",
+    "description": "A description for 'source.file.path'"
+  },
+  {
+    "name": "source.dir.path",
+    "type": "java.lang.String",
+    "description": "A description for 'source.dir.path'"
+  }
+]}

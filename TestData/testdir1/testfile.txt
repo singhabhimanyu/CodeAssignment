@@ -1,0 +1,134 @@
+Project must have a minimal design specification document explaining main decisions made and abstractions used.
+
+Code must be written as if it is a production application with all necessary error checking, logging and corresponding code quality and OOD considerations
+
+Java Docs must be used for documentation for all public APIs. The generated JavaDoc must be enough to understand APIs and how one would use them
+
+Unit tests must be written for all public APIs.
+
+The project must be IDE agnostic, meaning that the person who gets the project would not need any particular IDE installed to compile and run.
+
+There must be a document that describes deployment procedures, it is highly desirable that deployment execution would be available using maven/gradle.
+
+You may use any framework to implement transport layer of your project (request/response layer, etc.) 
+
+Project must have a minimal design specification document explaining main decisions made and abstractions used.
+
+Code must be written as if it is a production application with all necessary error checking, logging and corresponding code quality and OOD considerations
+
+Java Docs must be used for documentation for all public APIs. The generated JavaDoc must be enough to understand APIs and how one would use them
+
+Unit tests must be written for all public APIs.
+
+The project must be IDE agnostic, meaning that the person who gets the project would not need any particular IDE installed to compile and run.
+
+There must be a document that describes deployment procedures, it is highly desirable that deployment execution would be available using maven/gradle.
+
+You may use any framework to implement transport layer of your project (request/response layer, etc.) 
+
+Project must have a minimal design specification document explaining main decisions made and abstractions used.
+
+Code must be written as if it is a production application with all necessary error checking, logging and corresponding code quality and OOD considerations
+
+Java Docs must be used for documentation for all public APIs. The generated JavaDoc must be enough to understand APIs and how one would use them
+
+Unit tests must be written for all public APIs.
+
+The project must be IDE agnostic, meaning that the person who gets the project would not need any particular IDE installed to compile and run.
+
+There must be a document that describes deployment procedures, it is highly desirable that deployment execution would be available using maven/gradle.
+
+You may use any framework to implement transport layer of your project (request/response layer, etc.) 
+Project must have a minimal design specification document explaining main decisions made and abstractions used.
+
+Code must be written as if it is a production application with all necessary error checking, logging and corresponding code quality and OOD considerations
+
+Java Docs must be used for documentation for all public APIs. The generated JavaDoc must be enough to understand APIs and how one would use them
+
+Unit tests must be written for all public APIs.
+
+The project must be IDE agnostic, meaning that the person who gets the project would not need any particular IDE installed to compile and run.
+
+There must be a document that describes deployment procedures, it is highly desirable that deployment execution would be available using maven/gradle.
+
+You may use any framework to implement transport layer of your project (request/response layer, etc.) 
+Project must have a minimal design specification document explaining main decisions made and abstractions used.
+
+Code must be written as if it is a production application with all necessary error checking, logging and corresponding code quality and OOD considerations
+
+Java Docs must be used for documentation for all public APIs. The generated JavaDoc must be enough to understand APIs and how one would use them
+
+Unit tests must be written for all public APIs.
+
+The project must be IDE agnostic, meaning that the person who gets the project would not need any particular IDE installed to compile and run.
+
+There must be a document that describes deployment procedures, it is highly desirable that deployment execution would be available using maven/gradle.
+
+You may use any framework to implement transport layer of your project (request/response layer, etc.) 
+Project must have a minimal design specification document explaining main decisions made and abstractions used.
+
+Code must be written as if it is a production application with all necessary error checking, logging and corresponding code quality and OOD considerations
+
+Java Docs must be used for documentation for all public APIs. The generated JavaDoc must be enough to understand APIs and how one would use them
+
+Unit tests must be written for all public APIs.
+
+The project must be IDE agnostic, meaning that the person who gets the project would not need any particular IDE installed to compile and run.
+
+There must be a document that describes deployment procedures, it is highly desirable that deployment execution would be available using maven/gradle.
+
+You may use any framework to implement transport layer of your project (request/response layer, etc.) 
+
+Project must have a minimal design specification document explaining main decisions made and abstractions used.
+
+Code must be written as if it is a production application with all necessary error checking, logging and corresponding code quality and OOD considerations
+
+Java Docs must be used for documentation for all public APIs. The generated JavaDoc must be enough to understand APIs and how one would use them
+
+Unit tests must be written for all public APIs.
+
+The project must be IDE agnostic, meaning that the person who gets the project would not need any particular IDE installed to compile and run.
+
+There must be a document that describes deployment procedures, it is highly desirable that deployment execution would be available using maven/gradle.
+
+You may use any framework to implement transport layer of your project (request/response layer, etc.) 
+Project must have a minimal design specification document explaining main decisions made and abstractions used.
+
+Code must be written as if it is a production application with all necessary error checking, logging and corresponding code quality and OOD considerations
+
+Java Docs must be used for documentation for all public APIs. The generated JavaDoc must be enough to understand APIs and how one would use them
+
+Unit tests must be written for all public APIs.
+
+The project must be IDE agnostic, meaning that the person who gets the project would not need any particular IDE installed to compile and run.
+
+There must be a document that describes deployment procedures, it is highly desirable that deployment execution would be available using maven/gradle.
+
+You may use any framework to implement transport layer of your project (request/response layer, etc.) 
+
+Project must have a minimal design specification document explaining main decisions made and abstractions used.
+
+Code must be written as if it is a production application with all necessary error checking, logging and corresponding code quality and OOD considerations
+
+Java Docs must be used for documentation for all public APIs. The generated JavaDoc must be enough to understand APIs and how one would use them
+
+Unit tests must be written for all public APIs.
+
+The project must be IDE agnostic, meaning that the person who gets the project would not need any particular IDE installed to compile and run.
+
+There must be a document that describes deployment procedures, it is highly desirable that deployment execution would be available using maven/gradle.
+
+You may use any framework to implement transport layer of your project (request/response layer, etc.) 
+Project must have a minimal design specification document explaining main decisions made and abstractions used.
+
+Code must be written as if it is a production application with all necessary error checking, logging and corresponding code quality and OOD considerations
+
+Java Docs must be used for documentation for all public APIs. The generated JavaDoc must be enough to understand APIs and how one would use them
+
+Unit tests must be written for all public APIs.
+
+The project must be IDE agnostic, meaning that the person who gets the project would not need any particular IDE installed to compile and run.
+
+There must be a document that describes deployment procedures, it is highly desirable that deployment execution would be available using maven/gradle.
+
+You may use any framework to implement transport layer of your project (request/response layer, etc.) 
